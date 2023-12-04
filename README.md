@@ -1,9 +1,5 @@
 # MadeInShoreditch Wordpress theme
 
-
-
-## Description
-
 A wordpress theme edited from the starter theme underscores.
 
 ## Installation
